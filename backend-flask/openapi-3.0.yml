@@ -252,4 +252,5 @@ components:
           example: "Worf"
         handle:
           type: string
-          example: "worf"
+          example: "worf" 
+        
